@@ -1,3 +1,6 @@
+# To install these Python dependencies, type:
+# pip install -r requirements.txt
+
 # Dependencies for the Text_to_ASL gloss Model
 nltk==3.9.1
 transformers==4.52.4
